@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan objectID="0">
+  <IsSelected>True</IsSelected>
+  <Name>Test_From_Sprinter_Data_File</Name>
+  <Path isNull="True" />
+  <StationsDefinition objectID="1">
+    <Collection objectID="2">
+      <Elements isCollection="True" />
+    </Collection>
+  </StationsDefinition>
+  <Attachments objectID="3">
+    <Elements isCollection="True" />
+  </Attachments>
+  <Parameters objectID="4">
+    <Elements isCollection="True" />
+  </Parameters>
+  <StepsDefinition objectID="5">
+    <Elements isCollection="True">
+      <StepDefinition objectID="6">
+        <StepIndex>1</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 1</Name>
+        <TextualDescription>Click the speakersImg link.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="7">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the speakersImg link.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments objectID="8">
+          <Elements isCollection="True" />
+        </RuntimeAttachments>
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>wqcoqnc0.gcj</LocalStepDirectory>
+        <Context objectID="9">
+          <Elements isCollection="True" />
+        </Context>
+        <UserDefinedFieldValues objectID="10">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="11">
+        <StepIndex>2</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 2</Name>
+        <TextualDescription>Click the buy_now button.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="12">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the buy_now button.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>dth5gxag.sac</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="13">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="14">
+        <StepIndex>3</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 3</Name>
+        <TextualDescription>Click the WebElement web element.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="15">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the WebElement web element.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>qllupga0.r1m</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="16">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="17">
+        <StepIndex>4</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 4</Name>
+        <TextualDescription>Click the WebElement web element.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="18">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the WebElement web element.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>r3bdf5dw.5m3</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="19">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="20">
+        <StepIndex>5</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 5</Name>
+        <TextualDescription>Click the save_to_cart button.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="21">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the save_to_cart button.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>doofz1jj.5kv</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="22">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="23">
+        <StepIndex>6</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 6</Name>
+        <TextualDescription>Click the shoppingCartLink link.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="24">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the shoppingCartLink link.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>nlmmxm0v.v21</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="25">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="26">
+        <StepIndex>7</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 7</Name>
+        <TextualDescription>Click the check_out_btn button.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="27">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the check_out_btn button.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>hksb1feg.oja</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="28">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="29">
+        <StepIndex>8</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 8</Name>
+        <TextualDescription>Enter test in the usernameInOrderPayment edit field.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="30">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Enter test in the usernameInOrderPayment edit field.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>rc2x01pa.b3e</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="31">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="32">
+        <StepIndex>9</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 9</Name>
+        <TextualDescription>Enter the encrypted password in the passwordInOrderPayment edit field.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="33">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Enter the encrypted password in the passwordInOrderPayment edit field.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>rhzwpzpw.l2v</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="34">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="35">
+        <StepIndex>10</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 10</Name>
+        <TextualDescription>Click the login_btnundefined button.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="36">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the login_btnundefined button.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>r254jg4t.qoi</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="37">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="38">
+        <StepIndex>11</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 11</Name>
+        <TextualDescription>Click the registration_btnundefined button.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="39">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Click the registration_btnundefined button.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>3h5mkm00.trd</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="40">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="41">
+        <StepIndex>12</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 12</Name>
+        <TextualDescription>Enter test in the usernameRegisterPage edit field.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="42">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Enter test in the usernameRegisterPage edit field.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>hei4mea4.rtf</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="43">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+      <StepDefinition objectID="44">
+        <StepIndex>13</StepIndex>
+        <Status isNull="True" />
+        <Name>Step 13</Name>
+        <TextualDescription>Enter test in the emailRegisterPage edit field.</TextualDescription>
+        <TextualExpectedResults></TextualExpectedResults>
+        <SnapshotDefinition objectID="45">
+          <SnapshotPartialPath isNull="True" />
+        </SnapshotDefinition>
+        <TextualActualResults isNull="True" />
+        <Id>0</Id>
+        <RuntimeAttachmentDefinitions cyclicReferenceObjectID="3" />
+        <RunStepId>0</RunStepId>
+        <TestId>0</TestId>
+        <SourceTestName isNull="True" />
+        <Description>Enter test in the emailRegisterPage edit field.</Description>
+        <ExecutionTime>0001-01-01T00:00:00</ExecutionTime>
+        <DesignTimeAttachments cyclicReferenceObjectID="3" />
+        <ExpectedResults></ExpectedResults>
+        <ActualResults isNull="True" />
+        <ActualResultsImagePath isNull="True" />
+        <RuntimeAttachments cyclicReferenceObjectID="8" />
+        <IsCurrent>False</IsCurrent>
+        <LocalStepDirectory>bxs11mjk.nwj</LocalStepDirectory>
+        <Context cyclicReferenceObjectID="9" />
+        <UserDefinedFieldValues objectID="46">
+          <Elements isCollection="True" />
+        </UserDefinedFieldValues>
+        <BPTStepContainer isNull="True" />
+        <ContainerRun isNull="True" />
+      </StepDefinition>
+    </Elements>
+  </StepsDefinition>
+  <Description>&lt;html&gt;&lt;body&gt;&lt;span style="font-family: 'MetricHPE';font-style: Normal;font-weight: normal;font-size: 8.25pt;"&gt;New test generated from Sprinter Data File&lt;/span&gt;&lt;/body&gt;&lt;/html&gt;</Description>
+  <Owner>stevanaa</Owner>
+  <CreationDate>2018-10-29T15:20:23</CreationDate>
+  <Comments></Comments>
+</TestPlan>
